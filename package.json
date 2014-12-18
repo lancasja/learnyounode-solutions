@@ -1,0 +1,23 @@
+{
+  "name": "DevTests",
+  "version": "0.0.0",
+  "description": "Learning node by experimenting. This is step 1.",
+  "main": "devTest.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lancasja/chunkysalsa.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Jonathan Lancaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lancasja/chunkysalsa/issues"
+  },
+  "homepage": "https://github.com/lancasja/chunkysalsa"
+}
